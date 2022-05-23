@@ -1,0 +1,11 @@
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/DeiT.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/algorithm/PicEncodeCheck.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/engine/CheckTask.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/Swin.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/engine/CheckThreadPoolExecutor.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/TransformerFactory.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/VisionTransformer.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/Conformer.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/engine/CheckManager.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/model/ViT.java
+/Users/tq/Desktop/XinCheck/dl/src/main/java/cn/xincheck/dl/imagecheck/engine/SingleCheckTask.java
